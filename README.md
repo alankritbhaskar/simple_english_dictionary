@@ -1,6 +1,6 @@
 # my_dictionary
 
-A new Flutter application.
+A flutter based english dictionary which uses OwlBot API and StreamBuilder widget.
 
 ## Getting Started
 
